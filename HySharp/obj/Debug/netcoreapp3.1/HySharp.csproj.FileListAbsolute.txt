@@ -1,0 +1,9 @@
+C:\Dev\C# programs\HySharp\HySharp\obj\Debug\netcoreapp3.1\HySharp.csprojAssemblyReference.cache
+C:\Dev\C# programs\HySharp\HySharp\obj\Debug\netcoreapp3.1\HySharp.AssemblyInfoInputs.cache
+C:\Dev\C# programs\HySharp\HySharp\obj\Debug\netcoreapp3.1\HySharp.AssemblyInfo.cs
+C:\Dev\C# programs\HySharp\HySharp\obj\Debug\netcoreapp3.1\HySharp.csproj.CoreCompileInputs.cache
+C:\Dev\C# programs\HySharp\HySharp\bin\Debug\netcoreapp3.1\HySharp.deps.json
+C:\Dev\C# programs\HySharp\HySharp\bin\Debug\netcoreapp3.1\HySharp.dll
+C:\Dev\C# programs\HySharp\HySharp\bin\Debug\netcoreapp3.1\HySharp.pdb
+C:\Dev\C# programs\HySharp\HySharp\obj\Debug\netcoreapp3.1\HySharp.dll
+C:\Dev\C# programs\HySharp\HySharp\obj\Debug\netcoreapp3.1\HySharp.pdb
